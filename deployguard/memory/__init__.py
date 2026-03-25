@@ -1,0 +1,2 @@
+"""Incident memory store."""
+
