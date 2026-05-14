@@ -62,13 +62,3 @@ Rollback Plan:
   }
 ]
 ```
-
-## Hackathon Positioning
-DeployGuard demonstrates a realistic DevTools workflow:
-- pipeline webhook ingestion
-- commit diff retrieval
-- incident-memory search
-- strict-JSON LLM risk intelligence
-- deterministic block/allow decision
-- commit status + MR reporting integration
-
